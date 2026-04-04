@@ -4,7 +4,7 @@ An end-to-end, hardware-accelerated Time Domain Reflectometer (TDR) built from s
 
 ---
 
-## 📖 Table of Contents
+## 📖 Table of Contents!!
 - [Project Overview](#project-overview)
 - [Core Technologies & Concepts](#core-technologies--concepts)
   - [What is TDR?](#what-is-tdr)
