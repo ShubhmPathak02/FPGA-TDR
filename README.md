@@ -1,7 +1,7 @@
 # FPGA-TDR-System: High-Resolution Cable Fault Detection via Multi-Phase TDC
 
 An end-to-end, hardware-accelerated Time Domain Reflectometer (TDR) built from scratch on a **Cyclone IV E FPGA**. This system detects, locates, and diagnoses physical faults (opens/shorts) in transmission lines using sub-cycle digital signal processing. The raw hardware logic is bridged to the cloud via an **ESP8266**, featuring a live web dashboard and predictive cable maintenance powered by the **Gemini API**.
-
+ 
 ---
 
 ## 📖 Table of Contents!!
